@@ -1,0 +1,25 @@
+{
+  "name": "FitCoach",
+  "short_name": "FitCoach",
+  "description": "Antrenman ve beslenme programı hazırlama",
+  "start_url": "/fitcoach/",
+  "scope": "/fitcoach/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0A0C10",
+  "theme_color": "#0A0C10",
+  "icons": [
+    {
+      "src": "/fitcoach/app-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/fitcoach/app-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
